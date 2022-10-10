@@ -1,1 +1,1 @@
-# Directories for all of The Odin Project's exercises
+# Directories for all my The Odin Project's exercises
